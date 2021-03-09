@@ -1,6 +1,6 @@
 * {
-    margin: 0%;
-    padding: 0%;
+    margin: 0;
+    padding: 0;
 }
 
 #photo {
@@ -17,9 +17,9 @@ h1,h2 {
     margin-top: 20px;
 }
 
-#first {
+#first,#workEXP {
     font-size: 18px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: lighter;
     margin-left: 20px;
 }
@@ -29,13 +29,17 @@ ul,ol {
 
 table {
     border-collapse: collapse;
-    margin-left: 20px;
-    
+    margin-left: 20px;  
 }
+
 th,td {
     border: solid black ;
     padding: 15px;
 }
 th{
     background-color: aqua;
+}
+
+.pics {
+    margin-left: 20px;
 }
