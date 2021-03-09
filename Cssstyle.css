@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    background-color: lightgrey;
 }
 
 #photo {
@@ -42,4 +43,9 @@ th{
 
 .pics {
     margin-left: 20px;
+}
+
+.nav {
+    margin-left: 20px;
+    padding: 15px;
 }
