@@ -32,6 +32,7 @@ table {
     border-collapse: collapse;
     margin-left: 20px;  
     margin-right: 5px;
+    width: fit-content;
 }
 
 th,td {
@@ -55,5 +56,6 @@ th{
 @media only screen and (max-width: 600px) {
     * {
       background-color: lightblue;
+      width: fit-content;
     }
   }
