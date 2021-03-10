@@ -31,6 +31,7 @@ ul,ol {
 table {
     border-collapse: collapse;
     margin-left: 20px;  
+    margin-right: 5px;
 }
 
 th,td {
@@ -48,4 +49,11 @@ th{
 .nav {
     margin-left: 20px;
     padding: 15px;
+    margin-right: 5px;
 }
+
+@media only screen and (max-width: 600px) {
+    * {
+      background-color: lightblue;
+    }
+  }
