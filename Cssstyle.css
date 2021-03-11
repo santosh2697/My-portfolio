@@ -1,9 +1,32 @@
 * {
     margin: 0;
     padding: 0;
-    background-color: lightgrey;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+body{
+    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(wood.jpg);
+    background-size: cover;
+    background-position: center;
 }
 
+.main > ul {
+    list-style-type: none;
+    margin-top: 20px;
+}
+.main > ul li {
+    display: inline-block;
+}
+.main > ul li a {
+    text-decoration: none;
+    font-size: 20px;
+    padding: 5px 20px;
+    border: solid transparent black;
+}
+.main > ul li a:hover {
+    background-color: aqua;
+    color: black;
+}
 #photo {
     float: right; 
     margin-right: 30px; 
@@ -36,25 +59,27 @@ table {
 }
 
 th,td {
-    border: solid black ;
+    border: 3px solid black ;
     padding: 15px;
 }
 th{
     background-color: aqua;
+    color: black;
 }
 
 .pics {
     margin-left: 20px;
 }
 
-.nav {
-    margin-left: 20px;
-    padding: 15px;
-    margin-right: 5px;
+.contact > table tr td{ 
+    border: none;
 }
 
 @media only screen and (max-width: 600px) {
     * {
-      background-color: lightblue;
+        background-color:lightgray;
+    }
+    body {
+        background-image: none;
     }
   }
