@@ -1,7 +1,10 @@
 Jobverz
 
+
 Sprint 1
 Objective: Create a react component for reset password page
+
+
 
 Day 1: Understanding Design Language Systems
 
@@ -16,6 +19,8 @@ Day 5: Redesigning Landing page where users, government, and company has a seper
 Sprint 2
 Objective: Adding AWS authentication to the website
 
+
+
 Day 1: Integrating all the individual CSS files into main CSS file to maintain consistancy
 
 Day 2: Understanding AWS authentication and also going through predefined methods in AWS Amplify
@@ -28,6 +33,8 @@ Day 5: Creating a new page called Forget password. The user enters the code that
 
 Sprint 3
 Objective: Extract skills, word experience and education qualification from the resume in pdf/doc format
+
+
 
 Day 1: Client meeting and restrospect
 
@@ -42,6 +49,8 @@ Day 5: Working with file reader. The information in the pdf file is being displa
 Sprint 4
 Objective: Upload the resume in AWS S3
 
+
+
 Day 1: Client meeting and retrospect
 
 Day 2: Creating a bucket in AWS S3. Uploading resume to the AWS S3 bucket. Faced some minor issues with permissions that denied updating/writing objectes in the buckets
@@ -54,6 +63,8 @@ Day 5: According to client requirements we changed the website again into blue t
 
 Sprint 5
 Objective: Research on Digital credentials/ Interoperable learner records
+
+
 
 Day 1: Client meeting and restrospect
 
