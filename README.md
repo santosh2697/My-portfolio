@@ -3,7 +3,7 @@ Jobverz
 Sprint 1
 Objective: Create a react component for reset password page
 
-Day 1: Understanding Design Language Systems 
+Day 1: Understanding Design Language Systems
 Day 2: Creating the reset password page in React JS. Also held a discussion with team to design the UI of the reset password page
 Day 3: Validating the email using regex. 
 Day 4: Making the user interface better by prompting an alert when user enters incorrect email. This is interconnected with email validation regex
@@ -11,7 +11,6 @@ Day 5: Redesigning Landing page where users, government, and company has a seper
 
 Sprint 2
 Objective: Adding AWS authentication to the website
-
 Day 1: Integrating all the individual CSS files into main CSS file to maintain consistancy
 Day 2: Understanding AWS authentication and also going through predefined methods in AWS Amplify
 Day 3: Creating AWS account and understanding AWS forget password code. Faced some minor issues during installation of AWS Amplify
