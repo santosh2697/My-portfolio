@@ -7,9 +7,13 @@ Objective: Create a react component for reset password page
 
 
 Day 1: Understanding Design Language Systems.
+
 Day 2: Creating the reset password page in React JS. Also held a discussion with team to design the UI of the reset password page.
+
 Day 3: Validating the email using regex. 
+
 Day 4: Making the user interface better by prompting an alert when user enters incorrect email. This is interconnected with email validation regex.
+
 Day 5: Redesigning Landing page where users, government, and company has a seperate card allocated for them. Helping out in designing the UI of the Landing page. Integrating of Sign up, Sign in, landing page, Reset password was also done by me.
 
 Sprint 2
