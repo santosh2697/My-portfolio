@@ -31,7 +31,6 @@ An in-depth paragraph about your project and overview of use.
 
 ### Extract skills, word experience and education qualification from the resume in pdf/doc format
 
-* Client meeting and restrospect
 * Get details from LinkedIn. Created a Developer app and got the access token. Successfully extract details such as First name, Last nane and photo
 * Working on node libraries to convert the information in the pdf file into text format that can be proccessed. Found two libraries namely pdf parser and word parser
 * Working with pdf reader where it directly converts the data in text file that is uploaded in the website. Pdf reader gave binary output for pdf and word files instead of text 
@@ -41,7 +40,6 @@ An in-depth paragraph about your project and overview of use.
 
 ### Upload the resume in AWS S3
 
-* Client meeting and retrospect
 * Creating a bucket in AWS S3. Uploading resume to the AWS S3 bucket. Faced some minor issues with permissions that denied updating/writing objectes in the buckets
 * Finished uploading any format resume/CV into the AWS S3 bucket
 * Redesigning the UI of the Jobverz website in the Adobe XD. The goal is to change the website into red theme 
@@ -51,7 +49,6 @@ An in-depth paragraph about your project and overview of use.
 
 ### Research on Digital credentials/ Interoperable learner records
 
-* Client meeting and restrospect
 * Researched on a form of Digital credentials i.e Digital badges. Found some valuable information on Open badges that is developed by Mozilla
 * Understanding Digital credentials through a paper published by MIT on Digital credentials. 
 * Got a nice understanding of the role of issuer, recepient and the advantages of Digital credentials
@@ -62,7 +59,6 @@ An in-depth paragraph about your project and overview of use.
 
 ### Create a react component for the skill graph page
 
-* Client meeting and retrospect
 * Implemented draggable component and drop it into a table
 * Fixing errors mainly one button falling into another and multiple buttonss of same skill
 * Implenting search bar where the user can add skills after selecting from auto complete search
@@ -72,7 +68,6 @@ An in-depth paragraph about your project and overview of use.
 
 ### Create a react component for the profile page
 
-* Client meeting and restrospect
 * Gathering crucial data about ILR's through Digitary website
 * More research and consolidating information about ILR's and also preparing a presentation about Digitary for client meeting
 * Uploading the image and also displaying basic information about the student in profile page and also redesigned the UI of profile page by taking reference from LinkedIn
