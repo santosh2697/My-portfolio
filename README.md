@@ -55,36 +55,31 @@ An in-depth paragraph about your project and overview of use.
 * Researched on a form of Digital credentials i.e Digital badges. Found some valuable information on Open badges that is developed by Mozilla
 * Understanding Digital credentials through a paper published by MIT on Digital credentials. 
 * Got a nice understanding of the role of issuer, recepient and the advantages of Digital credentials
-* On leave
 * Researched about Interoperable learner records. Gathered valuable information from a white paper on I.L.R published in September 2019 by American workforce. 
 * Also gathered data about Learning and Employment Record from the T3 Innovation Hub
 
 ## Sprint 6
 
-### Create a react component for reset password page
+### Create a react component for the skill graph page
 
-* Understanding Design Language Systems.
-* Creating the reset password page in React JS. Also held a discussion with team to design the UI of the reset password page.
-* Validating the email using regex.
-* Making the user interface better by prompting an alert when user enters incorrect email. This is interconnected with email validation regex
-* Redesigning Landing page where users, government, and company has a seperate card allocated for them. Helping out in designing the UI of the Landing page.
+* Client meeting and retrospect
+* Implemented draggable component and drop it into a table
+* Fixing errors mainly one button falling into another and multiple buttonss of same skill
+* Implenting search bar where the user can add skills after selecting from auto complete search
+* Used npm Tyhpehead module to implement autocomplete search bar and also added funtionality of directly adding skill buttons when selected from dropdown
 
 ## Sprint 7
 
-### Create a react component for reset password page
+### Create a react component for the profile page
 
-* Understanding Design Language Systems.
-* Creating the reset password page in React JS. Also held a discussion with team to design the UI of the reset password page.
-* Validating the email using regex.
-* Making the user interface better by prompting an alert when user enters incorrect email. This is interconnected with email validation regex
-* Redesigning Landing page where users, government, and company has a seperate card allocated for them. Helping out in designing the UI of the Landing page.
+* Client meeting and restrospect
+* Gathering crucial data about ILR's through Digitary website
+* More research and consolidating information about ILR's and also preparing a presentation about Digitary for client meeting
+* Uploading the image and also displaying basic information about the student in profile page and also redesigned the UI of profile page by taking reference from LinkedIn
+* Displayed educational details, skills and work expereince from the previously collected data in the profile page
 
 ## Sprint 8
 
-### Create a react component for reset password page
+### fill
 
-* Understanding Design Language Systems.
-* Creating the reset password page in React JS. Also held a discussion with team to design the UI of the reset password page.
-* Validating the email using regex.
-* Making the user interface better by prompting an alert when user enters incorrect email. This is interconnected with email validation regex
-* Redesigning Landing page where users, government, and company has a seperate card allocated for them. Helping out in designing the UI of the Landing page.
+* fill
