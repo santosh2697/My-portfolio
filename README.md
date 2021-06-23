@@ -1,10 +1,9 @@
 # Jobverz
 
-Simple overview of use/purpose.
-
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Jobverz is an online platform where the user can find the relevant skills to get recruited into his dream job within the time span. It also maps the user skill proficiency with demand. If the user is unclear about the path, then he can explore the trending job titles based on his skill set. The user authentication is carried out with the help of AWS amplify and Cognito. The user details are stored in AWS S3 with the help of Amplify.
+
 
 ## Sprint 1
 
@@ -73,8 +72,4 @@ An in-depth paragraph about your project and overview of use.
 * Uploading the image and also displaying basic information about the student in profile page and also redesigned the UI of profile page by taking reference from LinkedIn
 * Displayed educational details, skills and work expereince from the previously collected data in the profile page
 
-## Sprint 8
 
-### fill
-
-* fill
