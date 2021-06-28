@@ -72,4 +72,11 @@ Jobverz is an online platform where the user can find the relevant skills to get
 * Uploading the image and also displaying basic information about the student in profile page and also redesigned the UI of profile page by taking reference from LinkedIn
 * Displayed educational details, skills and work expereince from the previously collected data in the profile page
 
+## Sprint 8
 
+### Create a react component for the profile page
+
+* Working on displaying stored data such as work experience, educational qualifications about the user in the profile page
+* Preparing a final project report consisting of work done by engineering members on Jobverz
+* Working on presentation and also demo part
+* Working on the feedback given by mentors like adding duration of the job or education in the educational qualification page
